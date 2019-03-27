@@ -14,4 +14,4 @@ $ python2 install.py
 Done!.
 ```
 # Screenshot
-<img src=".images/Token.jpg"/>
+<img src=".images/token.jpg"/>
